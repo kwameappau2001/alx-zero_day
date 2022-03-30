@@ -1,2 +1,1 @@
-0x01-git
-This is my first git project
+0x03-git. lets go
