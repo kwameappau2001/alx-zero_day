@@ -1,5 +1,3 @@
 #!/bin/bash
-echo "School"
-#!/bin/bash
-echo "ALX"
-echo "School"
+echo "The school is open"
+"The school is open"
